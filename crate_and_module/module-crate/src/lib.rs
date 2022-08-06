@@ -1,4 +1,4 @@
-
+pub use crate::front_of_house::hosting;
 mod front_of_house;
 mod back_of_house;
 pub fn eat_at_restaurant() -> String {
